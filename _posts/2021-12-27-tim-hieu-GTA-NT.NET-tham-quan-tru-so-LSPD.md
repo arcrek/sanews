@@ -1,6 +1,6 @@
 ---
 title: "TÌM HIỂU GTA-NT.NET: THAM QUAN TRỤ SỞ LSPD"
-date: 2021-12-29T15:34:30-04:00
+date: 2021-12-29T15:34:30-15:00
 categories:
   - TÌM HIỂU GTA-NT.NET
 tags:
@@ -8,7 +8,6 @@ tags:
   - GTA-NT.NET
   - LSPD
 ---
-# TÌM HIỂU GTA-NT.NET: THAM QUAN TRỤ SỞ LSPD
 ### Xin chào quí vị khán giả, tôi là Hunggg Denlamm, nhà báo thuộc  tòa soạn SaNews
 Los Santos Police Department hay còn được gọi tắt là LSPD, là một trong nhiều tổ chức chính phủ quan trọng của đất nược San Andreas.. Làm việc theo phương hướng chuyên môn và có hiệu quả cao, với tiêu chí "vì nước quên thân, vì dân phục vụ" LSPD trong nhiều năm qua đã đạt được rất nhiều thành tích lớn và tạo được sự an toàn cho trong và ngoài thành phố Los Santos. Với số lượng nhân viên đông, chất lượng và có ý thức, sở cảnh sát đã tạo được sự an toàn và lấy được lòng của nhân dân. Các tệ nạn xã hội như cướp bóc, buôn bán hàng cấm, bắt cóc, giết người,... luôn nằm trong tằm kiểm soát của LSPD.
 <br />
