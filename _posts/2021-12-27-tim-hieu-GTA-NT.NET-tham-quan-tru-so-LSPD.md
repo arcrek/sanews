@@ -1,7 +1,13 @@
+
 ---
-layout: post
-title: TÌM HIỂU GTA-NT.NET: THAM QUAN TRỤ SỞ LSPD
-categories: TÌM HIỂU GTA-NT.NET
+title: "TÌM HIỂU GTA-NT.NET: THAM QUAN TRỤ SỞ LSPD"
+date: 2021-12-29T15:34:30-04:00
+categories:
+  - TÌM HIỂU GTA-NT.NET
+tags:
+  - SA-MP
+  - GTA-NT.NET
+  - LSPD
 ---
 # TÌM HIỂU GTA-NT.NET: THAM QUAN TRỤ SỞ LSPD
 ### Xin chào quí vị khán giả, tôi là Hunggg Denlamm, nhà báo thuộc  tòa soạn SaNews
