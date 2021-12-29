@@ -22,7 +22,7 @@ Bên cạnh đó, gara của trụ sở cũng được đầu tư rất nhiều 
 Không những vậy, trụ sở cũng mới được tân trang. Khu vực tiếp dân và phòng làm việc của nhân viên văn phòng được mở rộng, khang trang, thoáng mát. Khu vực ngục tù của phạm nhân cũng có chế độ rất tốt, đầy đủ cuộc sống cho phạm nhân và cũng được các chiến sĩ canh cẩn cẩn thận, không để cho tội phạm lọt ra ngoài gây ảnh hưởng tới người dân thành phố.
 <br />
 <img src="/assets/images/post/tham-quan-lspd/sa-mp-008.png" width="256" height="192">
-<img src="/assets/master/images/post/tham-quan-lspd/sa-mp-009.png" width="256" height="192">
+<img src="/assets/images/post/tham-quan-lspd/sa-mp-009.png" width="256" height="192">
 <br />
 Ngoài ra, trụ sở còn nhiều khu vực chưa được khám phá nhưng do tính chất bảo mật của tổ chức nên tôi không được đến tham quan những khu vực này.
 ### Cảm ơn các bạn đã theo dõi bài báo, và tôi là Hunggg Denlamm đến từ tòa soạn SaNews. Hẹn các bạn ở những bài báo tiếp theo
