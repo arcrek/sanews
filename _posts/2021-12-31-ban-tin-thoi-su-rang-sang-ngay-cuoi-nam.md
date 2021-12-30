@@ -51,12 +51,14 @@ Theo ghi nhận của các phóng viên thường trú tại các khu vực khá
 <br />
 *Hàng dài xe "mắc kẹt" tại bến cảng*
 <br />
+
 Hiện nay cũng ghi nhận tình trạng cháy hàng ở các cửa hàng tiện lợi 247. Chia sẻ với chúng tôi, ông Maris Owen, chủ một cửa hàng 247 cho biết: “Hiện nay, vì tình trạng dịch bệnh căng thẳng nên việc đưa hàng hóa vào thành phố là rất khó. Tuy nhiên mọi ngườ hãy cứ yên tâm vì chúng tôi sẽ đảm bảo đủ nhu cầu của người dân thành phố”.
 <br />
 <img src="https://raw.githubusercontent.com/nguyendang-dat/sanews/master/assets/images/post/2021-12-31/thieu-thuc-pham.png" width="384" height="288">
 <br />
 *Cửa hàng 24/7 cháy hàng*
 <br />
+
 Trước diễn biến phức tạp của dịch bệnh, chính phủ Los Santos đã ra quyết định đóng tất cả cửa biên giới, không cho người ngoài đến thành phố làm việc. Các hoạt động thể dục thể thao trên 5 người không được phép hoạt động…. Công ty taxi cũng phải dừng hết tất cả hoạt động đưa đón khách để đảm bảo an toàn. Theo ghi nhận thì chúng ta lại được thấy sự quay trở lại của những chiếc sanews, mặt nạ để ngăn ngừa dịch bệnh trên đường phố
 <br />
 <img src="https://raw.githubusercontent.com/nguyendang-dat/sanews/master/assets/images/post/2021-12-31/bien-gioi.png" width="384" height="288">
