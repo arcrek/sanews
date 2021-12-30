@@ -17,18 +17,21 @@ Shopxe của anh Zen Nason đã được chuyển địa điểm về khu vực 
 <br />
 *Cửa hàng xe mới của anh Zen*
 <br />
+
 Không kém cạnh vậy, doanh nhân Duy Nguyen Moriarty cũng đã chuẩn bị khai trương một shopxe mới ở khu vực bãi xe của ngân hàng Vinewood. Trong những ngày cuối năm, mặc dù bận rộn chuẩn bị khai trương nhưng khi chúng tôi ghé thăm đã nhận được sự đón tiếp niềm nở của anh Duy. Qua sự giới thiệu của anh Duy thì shopxe mới chỉ nhập một số mẫu xe mới mà đặc biệt là chiếc hotknife cực hiếm của thành phố. Anh Duy chia sẻ còn rất nhiều chiếc xe với mẫu mã đa dạng hiện đang được cấp tốc vận chuyển về để kịp phục vụ cho buổi khai trương vào ngày thứ 7 sắp tới. Chúc cho cửa hàng của anh Duy làm anh phát tài, lợi lộc và mọi người đừng quên đến tham dự buổi khai trương sắp tới với nhiều ưu đãi cực khủng cho những khách hàng đầu tiên nhé.
 <br />
 <img src="https://raw.githubusercontent.com/nguyendang-dat/sanews/master/assets/images/post/2021-12-31/shop-xe-1.png" width="384" height="288">
 <br />
 *Không khí tấp nập chuẩn bị khai trương*
 <br />
+
 Hiện nay, chỉ còn một cơ sở sửa chữa và độ xe chưa được đấu thầu, với lượng nhu cầu của cư dân thành phố tăng cao, hi vọng sắp tới chính phủ sẽ đưa ra những chính sách hợp lí để đưa dịch vụ này vào phục vụ tại thành phố
 <br />
 <img src="https://raw.githubusercontent.com/nguyendang-dat/sanews/master/assets/images/post/2021-12-31/sua-xe.png" width="384" height="288">
 <br />
 *Trang thiết bị còn mới của công ty độ xe*
 <br />
+
 Bên cạnh đó, các quán bar, quán rượu đã xuất hiện, trở thành tụ điểm giải trí ăn chơi về đêm cho giới trẻ nhằm giúp họ thư giãn, thoải mái đầu óc trước khi bắt đầu ngày làm việc mới
 <br />
 <img src="https://raw.githubusercontent.com/nguyendang-dat/sanews/master/assets/images/post/2021-12-31/bar.png" width="384" height="288">
