@@ -1,6 +1,6 @@
 ---
 title: "BẢN TIN THỜI SỰ RẠNG SÁNG NGÀY 31/12/2021"
-date: 2021-12-31T15:34:30-15:00
+date: 2021-12-31T00:00:00-15:00
 categories:
   - BẢN TIN THỜI SỰ
 tags:
