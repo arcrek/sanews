@@ -1,0 +1,23 @@
+---
+title: "BẢN TIN THỜI SỰ NGÀY 10-01-2021"
+date: 2022-01-10T00:00:00-15:00
+categories:
+  - BẢN TIN THỜI SỰ
+tags:
+  - SA-MP
+  - GTA-NT.NET
+  - BẢN TIN THỜI SỰ
+---
+### Xin chào toàn thể người dân thành phố Los Santos, tôi là Hunggg Denlamm, phóng viên đài truyền hình Sanews, thường trú tại Los Santos. Và sau đây là những tin tức có trong ngày hôm nay
+Dần dần sau thời gian thành phố được thành lập, cuộc sống của mọi người dần đi vào ổn định, mọi thứ bắt đầu bước vào guồng quay. Hiện này, được biết thành phố có nhiều đại gia, với tiềm lực kinh tế cực mạnh, nắm giữ trong tay nhiều doanh nghiệp bất sản lớn, chính vì vậy, một ông chủ có tiếng trong giới xe cộ của thành phố Duy Nguyen Moriarty đã cho ra mắt shop máy bay đầu tiên của thành phố chúng ta.
+Shop máy bay cao cấp này hiện tọa lạc tại khu vực Verona beach, trong một tòa nhà cao cấp, được cung cấp đầy đủ trang thiết bị để bảo quản những chiếc máy bay và linh kiện được tốt nhất để gửi tới khách hàng.
+
+<br />
+<img src="https://raw.githubusercontent.com/nguyendang-dat/sanews/master/assets/images/post/2022-01-10/a1.png" width="384" height="288">
+<br />
+*Các TNXH đã bắt đầu len lỏi vào thành phố.*
+<br />
+
+Tại shop máy bay của anh Duy đang treo bán chiếc máy bay Sparrow với giá lên tới hàng trăm triệu SAD. Cùng với đó là nhiều mẫu mã, máy bay khác loại đa dạng từ loại đến màu sắc.
+Chúc cho anh Duy cùng shop máy bay của mình ngày càng làm ăn phát đạt, làm việc năng suất để phục vụ được nhu cầu cung cấp phương tiện đi lại cho toàn thể người dân thành phố
+### Và vừa rồi là những thông tin nóng nhất trong ngày. Cảm ơn các bạn đã theo dõi. Và tôi là Hunggg Denlamm, phóng viên đài truyền hình Sanews, Los Santos
