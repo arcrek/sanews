@@ -15,7 +15,7 @@ Shop máy bay cao cấp này hiện tọa lạc tại khu vực Verona beach, tr
 <br />
 <img src="https://raw.githubusercontent.com/nguyendang-dat/sanews/master/assets/images/post/2022-01-10/a1.png" width="384" height="288">
 <br />
-*Các TNXH đã bắt đầu len lỏi vào thành phố.*
+*Chiếc Sparrow độc nhất thành phố.*
 <br />
 
 Tại shop máy bay của anh Duy đang treo bán chiếc máy bay Sparrow với giá lên tới hàng trăm triệu SAD. Cùng với đó là nhiều mẫu mã, máy bay khác loại đa dạng từ loại đến màu sắc.
