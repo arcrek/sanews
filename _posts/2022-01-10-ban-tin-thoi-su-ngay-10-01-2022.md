@@ -5,7 +5,7 @@ categories:
   - BẢN TIN THỜI SỰ
 tags:
   - SA-MP
-  - GTA-NT.NET
+  - VLS-RP
   - BẢN TIN THỜI SỰ
 ---
 ### Xin chào toàn thể người dân thành phố Los Santos, tôi là Hunggg Denlamm, phóng viên đài truyền hình Sanews, thường trú tại Los Santos. Và sau đây là những tin tức có trong ngày hôm nay
