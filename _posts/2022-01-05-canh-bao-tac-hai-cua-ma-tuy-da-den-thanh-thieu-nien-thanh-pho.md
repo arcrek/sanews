@@ -5,7 +5,7 @@ categories:
   - BẢN TIN THỜI SỰ
 tags:
   - SA-MP
-  - GTA-NT.NET
+  - VLS-RP
   - BẢN TIN THỜI SỰ
 ---
   Cùng với sự phát triển của thành phố trong thời gian gần đây, rất nhiều các tệ nạn xã hội đã bắt đầu len lỏi vào thành phố. Nổi bật nhất đó chính là ma túy. Không khó để bắt gặp hình ảnh nhiều thanh niên trong tình trạng không tỉnh táo, đi đứng loạng choạng, có dấu hiệu của việc “phê” ma túy trong các khu ổ chuột ở khu vực ổ chuột, đông dân cư đông người, trình độ dân trí còn kém, có sự trộn lẫn của các sắc tộc đến Los Santos định cư như Grove Street, Idlewood,... hay người ta thường xuyên tìm thấy những ống kim tiêm đã qua sử dụng ở những nơi vắng vẻ như nghĩa trang thành phố hoặc đường cống cũ xuyên qua các khu ổ chuột.
