@@ -1,11 +1,11 @@
 ---
-title: "TÌM HIỂU GTA-NT.NET: THAM QUAN TRỤ SỞ LSPD"
+title: "TÌM HIỂU VLS-RP: THAM QUAN TRỤ SỞ LSPD"
 date: 2021-12-29T15:34:30-15:00
 categories:
-  - TÌM HIỂU GTA-NT.NET
+  - TÌM HIỂU VLS-RP
 tags:
   - SA-MP
-  - GTA-NT.NET
+  - VLS-RP
   - LSPD
 ---
 ### Xin chào quí vị khán giả, tôi là Hunggg Denlamm, nhà báo thuộc  tòa soạn SaNews
